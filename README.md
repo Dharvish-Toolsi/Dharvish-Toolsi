@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dharvish-Toolsi
-- 👀 I’m interested in gamimg.
+- 👀 I’m interested in gaming and music.
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: dharvish.toolsi@gmail.com
 
